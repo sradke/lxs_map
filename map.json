@@ -175,7 +175,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/iqtest.sueddeutsche.de\/"
+                 "value":"https:\/\/www.testedich.de\/quiz05\/dasquiztd.php3?testid=1048189797"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -193,7 +193,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.sueddeutsche.de\/quiz\/50ceff3b49fdf0baba67c8fd0ad08566-eq-test---pers-nlichkeitstest"
+                 "value":"https:\/\/www.testedich.de\/quiz20\/quiz\/1152030969\/Teste-deinen-EQ"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1526,12 +1526,30 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":60,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":61,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":64,
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"1"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -1539,8 +1557,26 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"1"
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":71,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":72,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -1548,8 +1584,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"1"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -1557,8 +1593,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"1"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -1602,8 +1638,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"1"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -1611,8 +1647,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"1"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -1638,8 +1674,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"1"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -1647,8 +1683,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"1"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
