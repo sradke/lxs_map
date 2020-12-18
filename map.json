@@ -295,7 +295,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/dynlxs.madrax.de:88\/"
+                 "value":"https:\/\/dynlxs.madrax.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
