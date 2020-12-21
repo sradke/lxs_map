@@ -133,7 +133,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dynlxs.madrax.de\/pages\/Webseiten_Hinweis_WeihnachtsDJ.html"
+                 "value":"https:\/\/sradke.github.io\/map_christmas\/htmls\/Webseiten_Hinweis_WeihnachtsDJ.html"
                 }],
          "type":"tilelayer",
          "visible":true,
