@@ -115,7 +115,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dynlxs.madrax.de\/pages\/Schnitzeljagd.html"
+                 "value":"https:\/\/sradke.github.io\/map_christmas\/htmls\/Schnitzeljagd.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -133,7 +133,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dynlxs.madrax.de\/paperchase\/chase01_62483532.html"
+                 "value":"https:\/\/sradke.github.io\/map_christmas\/htmls\/paperchase\/chase01_62483532.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -151,7 +151,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dynlxs.madrax.de\/paperchase\/chase02_20673832.html"
+                 "value":"https:\/\/sradke.github.io\/map_christmas\/htmls\/paperchase\/chase02_20673832.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -169,7 +169,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dynlxs.madrax.de\/paperchase\/chase03_99519987.html"
+                 "value":"https:\/\/sradke.github.io\/map_christmas\/htmls\/paperchase\/chase03_99519987.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -187,7 +187,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dynlxs.madrax.de\/paperchase\/chase04_80509248.html"
+                 "value":"https:\/\/sradke.github.io\/map_christmas\/htmls\/paperchase\/chase04_80509248.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -205,7 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dynlxs.madrax.de\/paperchase\/chase05_67220452.html"
+                 "value":"https:\/\/sradke.github.io\/map_christmas\/htmls\/paperchase\/chase05_67220452.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dynlxs.madrax.de\/paperchase\/chase06_88534623.html"
+                 "value":"https:\/\/sradke.github.io\/map_christmas\/htmls\/paperchase\/chase06_88534623.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -241,7 +241,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dynlxs.madrax.de\/paperchase\/chase07_88689362.html"
+                 "value":"https:\/\/sradke.github.io\/map_christmas\/htmls\/paperchase\/chase07_88689362.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -259,7 +259,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dynlxs.madrax.de\/paperchase\/chase08_73975213.html"
+                 "value":"https:\/\/sradke.github.io\/map_christmas\/htmls\/paperchase\/chase08_73975213.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -277,7 +277,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dynlxs.madrax.de\/paperchase\/chase00_success_77998568.html"
+                 "value":"https:\/\/sradke.github.io\/map_christmas\/htmls\/paperchase\/chase00_success_77998568.html"
                 }],
          "type":"tilelayer",
          "visible":true,
