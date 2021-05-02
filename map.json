@@ -493,7 +493,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"scribbl_jitsi_right"
+                 "value":"scribbl_jitsi"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -511,7 +511,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"scribbl_jitsi_left"
+                 "value":"scribbl_jitsi"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -547,7 +547,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"standlandFluss_jitsi_right"
+                 "value":"standlandFluss_jitsi"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -565,7 +565,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"standlandFluss_jitsi_left"
+                 "value":"standlandFluss_jitsi"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -601,7 +601,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"puzzle_jitsi_right"
+                 "value":"puzzle_jitsi"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -619,7 +619,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"puzzle_jitsi_left"
+                 "value":"puzzle_jitsi"
                 }],
          "type":"tilelayer",
          "visible":true,
