@@ -41,7 +41,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer dans le TP 1"
+                 "value":"Druecke SPACE, um den Raum 1 zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -69,7 +69,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer dans le TP 2"
+                 "value":"Druecke SPACE, um den Raum 2 zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -97,7 +97,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer dans le TP 3"
+                 "value":"Druecke SPACE, um den Raum 3 zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -125,7 +125,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer dans le TP 4"
+                 "value":"Druecke SPACE, um den Raum 4 zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -153,7 +153,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer dans le TP 5"
+                 "value":"Druecke SPACE, um den Raum 5 zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +181,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer dans le TP 6"
+                 "value":"Druecke SPACE, um den Raum 6 zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -209,7 +209,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer dans le TP 7"
+                 "value":"Druecke SPACE, um den Raum 7 zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -237,7 +237,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer dans le TP 8"
+                 "value":"Druecke SPACE, um den Raum 8 zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -265,7 +265,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer dans le TP 9"
+                 "value":"Druecke SPACE, um den Raum 9 zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -293,7 +293,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer dans le TP 10"
+                 "value":"Druecke SPACE, um den Raum 10 zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -321,7 +321,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer dans le TP 11"
+                 "value":"Druecke SPACE, um den Raum 11 zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
